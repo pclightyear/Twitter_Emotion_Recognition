@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+helpers/__pycache__/**
+data/*
+logs/*
+models/*
+submission.csv
